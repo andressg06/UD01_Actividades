@@ -1,1 +1,1 @@
-Este repositorio contiene las actividades y prácticas realizadas durante esta unidad. Se utilizará para almacenar y organizar los diferentes ejercicios desarrollados a lo largo del curso.
+Cambios en la rama conflictos
